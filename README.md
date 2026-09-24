@@ -1,5 +1,4 @@
-Hi there, I'm Arun Kumar Verma 👋
-🚀 Full Stack Developer | Backend Developer
+# Hi there, I'm Arun Kumar Verma 👋 🚀 Full Stack Developer | Backend Developer
 
 I'm a Full Stack Developer with 2+ years of development experience, currently working at Namami Infotech India Pvt. Ltd., Delhi.
 
