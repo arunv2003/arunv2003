@@ -47,8 +47,10 @@ I mainly focus on backend development, REST APIs, database design, authenticatio
 - 🏨 **Hotel Management System** — Full-stack SaaS application for hotel operations, bookings, rooms, POS, inventory, staff and reports.
 - 🏢 **Green Garden Society Management** — Society management platform for users, flats, blocks, billing, payments and role-based access.
 - 💇 **Salon Management System** — Backend-focused application built with NestJS, PostgreSQL and Drizzle ORM.
+- 🥜  **Nutflix** – Dry Fruits E-commerce Platform — E-commerce platform for dry fruits, featuring product management, online shopping, order processing, customer management and payment integration.
 - 📦 **Inventory Management System** — Admin inventory platform with product, stock and management workflows.
-
+- 🎓 LIT Connect – School Management System — School management platform designed to streamline academic and administrative operations, including student management, fee management, and school workflows.
+- 💻 **Vedanta Tech** — Web-based technology platform showcasing services, solutions and business offerings.
 ---
 
 ### 📊 GitHub Stats
